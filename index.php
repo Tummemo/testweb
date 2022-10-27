@@ -7,7 +7,7 @@ echo "</center>";
 
 if(isset($_POST["submit"])){
 
-    fopen("https://github.com/Tummemo/testweb/test.txt","a");
+    fopen("https://github.com/Tummemo/testweb.git/test.txt","a");
 
 }
 
